@@ -1,0 +1,7 @@
+git status -- to check the status of files
+git init -- to initialize the git
+git commit -m -- to commit new changes
+git log
+git diff
+git revert/restore
+git config --global user.name
